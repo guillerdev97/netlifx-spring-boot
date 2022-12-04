@@ -1,15 +1,15 @@
 server:
   port: 8082
-  servlet.context-path: /netlfix/v1
+  servlet.context-path: /netflix/v1
 
 # Microservice Configuration
 spring:
   application:
-    name: BigBang
+    name: Netflix
 
   # MySQL Database Configuration
   datasource:
-    url: jdbc:mysql://localhost:3306/netlfix_github?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/netflix_github?serverTimezone=UTC
     username: root
     password: Gg28112022
   jpa:

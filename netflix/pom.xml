@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>2</groupId>
-	<artifactId>bigbang</artifactId>
+	<artifactId>netflix</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>BigBang</name>
+	<name>netflix</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
