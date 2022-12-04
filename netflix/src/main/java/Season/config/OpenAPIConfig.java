@@ -15,8 +15,8 @@ public class OpenAPIConfig {
         return new OpenAPI()
                 .components(new Components().addSecuritySchemes("basicScheme",
                         new SecurityScheme().type(SecurityScheme.Type.HTTP).scheme("basic")))
-                .info(new Info().title("BigBang").version("0.0.1").description(
-                        "BigBang Swagger")
-                        .license(new License().name("BigBang").url("https://www.everis.com")));
+                .info(new Info().title("Netflix").version("0.0.1").description(
+                        "Netflix Swagger")
+                        .license(new License().name("Netflix").url("https://www.everis.com")));
     }
 }

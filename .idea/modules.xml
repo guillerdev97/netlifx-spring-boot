@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/netflix/bigbang.iml" filepath="$PROJECT_DIR$/netflix/bigbang.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ggardelr.iml" filepath="$PROJECT_DIR$/.idea/ggardelr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netflix/netflix.iml" filepath="$PROJECT_DIR$/netflix/netflix.iml" />
     </modules>
   </component>
 </project>

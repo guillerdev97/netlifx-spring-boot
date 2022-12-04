@@ -1,5 +1,5 @@
 server:
-  port: 8082
+  port: 8080
   servlet.context-path: /netflix/v1
 
 # Microservice Configuration
@@ -48,7 +48,7 @@ management:
       exposure:
         include: info,health
 
-BigBang:
+Netflix:
   resource:
     version: /v1
     endpoint1: {}
